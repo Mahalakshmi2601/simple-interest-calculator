@@ -50,5 +50,6 @@ Then:
 3. Enter the time period.
 4. Click the calculate button.
 5. The simple interest and total amount will be displayed.
+Beginner-friendly calculator project
 
 
