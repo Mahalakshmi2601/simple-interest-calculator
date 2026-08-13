@@ -1,5 +1,7 @@
 # Simple Interest Calculator
+## Bug Fix
 
+This branch contains a bug-fix update.
 ## Description
 
 The Simple Interest Calculator is a basic calculator that calculates the simple interest and total amount based on the principal amount, rate of interest, and time period.
